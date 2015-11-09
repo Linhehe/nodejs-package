@@ -1,0 +1,19 @@
+{
+  "name": "lowercase",
+  "version": "0.0.1",
+  "description": "A demo package of lowercase",
+  "keywords":[
+    "demo","lowercase"
+  ],
+  "author": "Linhehe",
+  "license": "MIT",
+  "main": "lowercase.js",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/bsspirit/lowercase_demo"
+  },
+  "engines": {
+    "node": ">=v0.10.5"
+  },
+  "readmeFilename": "README.md"
+}
